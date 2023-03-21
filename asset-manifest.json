@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nombre-del-repositorio/static/css/main.b5581a0b.css",
+    "main.js": "/nombre-del-repositorio/static/js/main.5cef9774.js",
+    "static/media/freecodecamp-logo.png": "/nombre-del-repositorio/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "index.html": "/nombre-del-repositorio/index.html",
+    "main.b5581a0b.css.map": "/nombre-del-repositorio/static/css/main.b5581a0b.css.map",
+    "main.5cef9774.js.map": "/nombre-del-repositorio/static/js/main.5cef9774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5581a0b.css",
+    "static/js/main.5cef9774.js"
+  ]
+}
